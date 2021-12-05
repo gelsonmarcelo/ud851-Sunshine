@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+<<<<<<< HEAD
     <item
         android:id="@+id/action_refresh"
         android:title="@string/action_refresh" />
+=======
+
+>>>>>>> d4f51fbdec1d61a1350979a2be8feae9f4e11ed2
 </menu>
